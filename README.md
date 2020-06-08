@@ -1,2 +1,2 @@
 # Optimizing-Under-Uncertainty--Ride-Hailing
-A discrete optimization approach to innovating ride-haling
+A discrete optimization approach to innovating ride-hailing
