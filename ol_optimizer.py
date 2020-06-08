@@ -2,6 +2,9 @@ import numpy as np
 import math
 from math import floor
 
+# Function Credits:
+#Divyanshu Mehta
+#https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
 # Python program for Dijkstra's single 
 # source shortest path algorithm. The program is 
