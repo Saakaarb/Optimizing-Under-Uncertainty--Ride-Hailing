@@ -52,11 +52,7 @@ if __name__=="__main__":
 
     
     #----------------------------
-    #Obtained O.L solution
     
-    # Now implement O.L solution on a grid that updates w time:
-    
-    # Now to show that O.L solutions are not as good as C.L Solutions
 
 
 
